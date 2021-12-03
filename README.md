@@ -1,5 +1,5 @@
 
-<h1>Hi, i'm Bryan🧘🏾‍♀️</h1>
+<h1>Hi, i'm Bryan🧘🏾‍♂️</h1>
 
 📚 Learning Front-End<br>
 🎓 University Student of Systems Analysis and Development<br>
