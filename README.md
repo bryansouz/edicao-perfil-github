@@ -3,7 +3,6 @@
 
 📚 Learning Front-End<br>
 🎓 University Student of Systems Analysis and Development<br>
-🏋🏾 Personal Trainer in the free time
 
 <div align="center">
   <a href="https://github.com/bryansouz">
