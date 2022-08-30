@@ -23,7 +23,7 @@
   <a href = "mailto:bryan.soares19@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bryan-souz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ## Total de visitas no meu perfil :desatived: <br>
+ ## Total de visitas no meu perfil <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/bryansouz/count.svg" />
  </p>
